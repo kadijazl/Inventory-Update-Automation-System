@@ -22,3 +22,5 @@ The system updates a structured summary table automatically using Google Apps Sc
 ## Potential Improvement
 🔹 Add an alert system for low stock warnings. Currently I only do conditional formatting where I highlight low stock amounts in red.
 
+## Example
+Only sharing snippets of the Google Form and Sheets to respect the company confidentiality.
