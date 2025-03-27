@@ -1,5 +1,5 @@
 # Inventory Update Automation System 🚀
-An automated inventory tracking system I developed for Toast Maker Tamarind Square branch, when I worked as a part time crew. 
+An automated inventory tracking system I developed for Toast Maker Tamarind Square branch. 
 Designed to collect inventory data through Google Forms and store it in Google Sheets. 
 The system updates a structured summary table automatically using Google Apps Script.
 
