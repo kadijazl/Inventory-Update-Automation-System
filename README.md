@@ -24,3 +24,6 @@ The system updates a structured summary table automatically using Google Apps Sc
 
 ## Example
 Only sharing snippets of the Google Form and Sheets to respect the company confidentiality.
+![Snippet of the Google Form](google-form.jpg)
+
+![Snippet of the Google Sheet](google-sheets.jpg)
